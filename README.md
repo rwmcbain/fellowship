@@ -12,22 +12,6 @@ Your goal is to use jQuery to complete this adventure! Instead of using traditio
 Javascript like the weekend's prompt, you should use jQuery selectors to manipulate the DOM. This second pass on Fellowship should give you a greater appreciation of the ease and simplicity of jQuery compared to standard Javascript.
 
 
-#### Directions
-
-1. Check out [`scripts/fellowship.js`](scripts/fellowship.js). This is where you will work. Starter data has been provided.
-2. Define and call the functions outlined below.
-
-
-#### Resources
-
-- [jQuery Selector Reference](https://api.jquery.com/category/selectors/)
-- [jQuery Cheat Sheet Reference](http://overapi.com/jquery/)
-- [jQuery Succinctly](http://weeklymirror.com.np/files/download/jQuery_Succinctly.pdf)
-- [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
-- [Try jQuery (Interactive)](http://try.jquery.com/)
-
-===
-
 #### Part 1
 
 ```js
